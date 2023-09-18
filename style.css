@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+  }
+.bar {
+  /* left: 80vw; */
+  position: fixed;
+  display: inline-flex;
+  outline: 1px solid black;
+  float: right;
+  width: 100vw;
+
+
+}
+
+.bar div {
+  
+  color: beige;
+  background-color: rgb(7, 103, 103);
+  padding: 10px;
+  margin: 5px;
+}
